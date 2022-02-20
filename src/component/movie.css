@@ -1,0 +1,26 @@
+.title {
+    border-bottom: 2px solid black;
+}
+
+.date {
+    border-bottom: 1px solid black;
+}
+
+.size1 {
+    font-size: 2rem;
+}
+
+.likeRating button {
+    background-color: transparent;
+    border: none;
+}
+
+.rating {
+    padding-top: 1rem;
+}
+
+.likeRating {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
