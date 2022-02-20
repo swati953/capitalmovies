@@ -97,7 +97,7 @@ export class Moviecontainer extends Component {
       //                     watchProvider={`https://api.themoviedb.org/3/movie/${element.id}/watch/providers?api_key=2f5af7d7b861e977bccc7e436d8bc937`?`https://api.themoviedb.org/3/movie/${element.id}/watch/providers?api_key=2f5af7d7b861e977bccc7e436d8bc937`:`https://api.themoviedb.org/3/movie/27205/watch/providers?api_key=2f5af7d7b861e977bccc7e436d8bc937`}
       //               />
       //             </div>
-      //           );
+        //           );
       //         })}
       //   <div className="conatiner d-flex justify-content-between">
       //           <button
